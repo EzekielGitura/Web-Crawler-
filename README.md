@@ -1,8 +1,8 @@
-# Advanced Web Crawler Documentation
+# Web Crawler Documentation
 
 ## 🌐 Overview
 
-The Advanced Web Crawler is a sophisticated, multi-threaded web exploration tool designed for comprehensive and efficient website analysis. It goes beyond basic crawling by providing robust features, error handling, and persistent storage.
+This Web Crawler is a sophisticated, multi-threaded web exploration tool designed for comprehensive and efficient website analysis. It goes beyond basic crawling by providing robust features, error handling, and persistent storage.
 
 ## 🚀 Key Features
 
@@ -65,10 +65,3 @@ The crawler generates a JSON report with:
 2. Add delays between requests
 3. Use appropriate user agents
 4. Obtain website owner's permission
-
-## 📝 Customization
-
-Easily extend the crawler by:
-- Implementing custom link filters
-- Adding more detailed logging
-- Integrating advanced data extraction
